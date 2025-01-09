@@ -1,4 +1,4 @@
-package com.xworkz.hotel.runner;
+package com.xworkz.hotel.persistrunner;
 
 import com.xworkz.hotel.entity.*;
 
